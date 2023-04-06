@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(200,98,67);
+}
+
+hr {
+    background-color: white;
+    border-color: turquoise;
+    border-style: dotted;
+    border-width: 2px;
+    height: 0px;
+    width: 30;
+}
+h1 {
+    color: teal;
+}
+h3 {
+    color: brown;
+}
